@@ -1,0 +1,22 @@
+{
+  "name": "renovate-16197",
+  "version": "1.0.0",
+  "description": "renovate issue 16197 orphaned npm process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabeelys/renovate-16197-orphaned-processes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabeelys/renovate-16197-orphaned-processes/issues"
+  },
+  "homepage": "https://github.com/nabeelys/renovate-16197-orphaned-processes#readme",
+  "dependencies": {
+    "delay": "^4.4.1"
+  }
+}
