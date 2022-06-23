@@ -19,6 +19,6 @@
   "homepage": "https://github.com/nabeelys/renovate-16197-orphaned-processes#readme",
   "dependencies": {
     "delay": "^4.4.1",
-    "renovate": "32.92.0"
+    "renovate": "32.95.0"
   }
 }
