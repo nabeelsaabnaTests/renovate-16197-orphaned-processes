@@ -4,7 +4,8 @@
   "description": "renovate issue 16197 orphaned npm process",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "echo 'long prepare for 900 sec' && sleep 900"
   },
   "repository": {
     "type": "git",
